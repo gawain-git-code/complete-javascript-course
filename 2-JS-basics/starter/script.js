@@ -11,3 +11,12 @@ console.log(job);
 
 job = "Engineer";
 console.log(job);
+
+console.log(firstname + " " + job);
+
+alert(firstname + " is a " + job);
+
+var ans = prompt("What is his last name?");
+
+console.log(ans);
+
