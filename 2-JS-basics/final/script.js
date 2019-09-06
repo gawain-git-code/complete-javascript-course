@@ -450,7 +450,7 @@ In the end, John would like to have 2 arrays:
 
 GOOD LUCK 😀
 */
-/*
+
 function tipCalculator(bill) {
     var percentage;
     if (bill < 50) {
@@ -473,7 +473,7 @@ var finalValues = [bills[0] + tips[0],
                    bills[2] + tips[2]];
 
 console.log(tips, finalValues);
-*/
+
 
 
 
